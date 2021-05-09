@@ -36,11 +36,11 @@ align-items: center;
     }
    
 /* register section */
-.details input,.details textarea{ width: 80%;
+.details input,.details textarea{ width: 60%;
         padding: .5rem;
     }
 
-
+.details{margin-left: 30px;}
 /* navbar */
 
 .navbar ul{display: flex;
@@ -57,7 +57,7 @@ align-items: center;
 
 .home{height: 422px;}
 
-
+.home p{text-align: center;}
 
 
 
