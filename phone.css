@@ -25,7 +25,10 @@
 flex-direction: column;
 justify-content: center;
 align-items: center;
+
 }
+
+.client-item img{margin: 15px;}
 
 
 .services #box img {
@@ -36,7 +39,7 @@ align-items: center;
     }
    
 /* register section */
-.details input,.details textarea{ width: 75%;
+.details input,.details textarea{ width: 80%;
         padding: .5rem;
     }
 
