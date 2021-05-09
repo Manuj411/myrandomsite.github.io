@@ -25,10 +25,15 @@
 flex-direction: column;
 justify-content: center;
 align-items: center;
-
 }
 
-.client-item img{margin: 30px;}
+.client-item img{margin-bottom: 30px;}
+
+.client-item2 img{margin-bottom: 30px;}
+
+.client-item3 img{margin-bottom: 30px;}
+
+
 
 
 .services #box img {
